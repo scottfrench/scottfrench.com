@@ -1,0 +1,20 @@
+{
+  "baseURL": "http://www.scottfrench.com/",
+  "languageCode": "en-us",
+  "title": "Scott French Guitar Company",
+  "theme": "ananke",
+  "permalinks": {
+     "updates": "/:year/:month/:day/:title/"
+  },
+  "params" : {
+    "favicon": "",
+    "description": "The last theme you'll ever need. Maybe.",
+    "facebook": "https://www.facebook.com/Scott-French-534458376971515/",
+    "twitter": "https://twitter.com/scott__french",
+    "instagram": "https://www.instagram.com/scott__french/",
+    "github": "github.com",
+    "background_color_class": "bg-dark-gray",
+    "featured_image": "/images/gohugo-default-sample-hero-image.jpg",
+    "recent_posts_number": 2
+  }
+}
